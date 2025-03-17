@@ -1,7 +1,2 @@
 # sanket-machinelearning
-# projects-datanalyst
-# projects-datanalyst
-# projects-datanalyst
-# projects-datanalyst
-# projects-datanalyst
-# projects-datanalyst
+I Upload My Machine Learning projects here :)
